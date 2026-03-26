@@ -11,7 +11,7 @@ I am a results-driven **Flutter Developer** with over 2 years of experience. I s
 | :--- | :--- |
 | **Frameworks** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) `GetX` `Provider` `Riverpod` |
 | **Languages** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Backend** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) `Node.js` `REST APIs` `Postman` |
+| **Backend** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  `REST APIs` `Postman` |
 | **Architecture** | `Monorepo (Melos)` `Flutter Modular` `Clean Architecture` `Agile` |
 | **Database** | `Cloud Firestore` `SQLite` `MySQL` |
 
@@ -22,7 +22,6 @@ I am a results-driven **Flutter Developer** with over 2 years of experience. I s
 * **EsteticaNow:** Led the development of User, Vendor, and Professional apps. Implemented real-time location-based discovery and Google Maps SDK.
 * **Tickk.in:** Built a community-based e-commerce platform with a custom bidding system and local seller integration.
 * **Alpha Circle:** Developed a group communication system featuring real-time chat and automated meeting notifications.
-* **DevDaily:** A task-tracking tool designed to help developers stay consistent with coding and interview preparation.
 
 ---
 
