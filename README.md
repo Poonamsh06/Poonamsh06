@@ -4,7 +4,7 @@
 
 ### Flutter Developer · Cross-Platform · Clean Architecture · Open to Opportunities
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/poonam-sharma-147aa0210)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/poonam-rani-147aa0210)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poonam06sh10@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Poonamsh06)
 
@@ -78,7 +78,7 @@ I'm a results-driven **Flutter Developer** with 2+ years of experience building 
 
         ## 📫 Let's Connect
 
-        - 💼 **LinkedIn:** [poonam-sharma-147aa0210](https://linkedin.com/in/poonam-sharma-147aa0210)
+        - 💼 **LinkedIn:** [poonam-rani-147aa0210](https://linkedin.com/in/poonam-rani-147aa0210)
         - - 📧 **Email:** [poonam06sh10@gmail.com](mailto:poonam06sh10@gmail.com)
           - - 📍 **Location:** Hyderabad, India
            
